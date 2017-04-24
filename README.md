@@ -1,4 +1,4 @@
-# [Off-the-shelf Embedded Devices as Platforms for Security Research](TODO)
+# [Off-the-shelf Embedded Devices as Platforms for Security Research](http://dl.acm.org/citation.cfm?id=3065913.3065919)
 
 Eurosec 2017
 
