@@ -8,7 +8,7 @@
 | [METER1](meter-schneider-ion8600/) | Schneider ION8600                | ARM                          | ✔   | ✘       | ✘    | 
 | METER2                             | Iskramenco ME372                 | ARM                          | ✔   | ✔       | ✔    | 
 | METER3                             | PG&E                             | MSP432                       | ✔   | ✔       | ✘    | 
-| PLC1                               | ControlLogix 1756-L61            | ARM                          | ✔   | ✔       | ✘    | 
+| [PLC1](control-logix-l61)          | ControlLogix 1756-L61            | ARM                          | ✔   | ✔       | ✘    | 
 | [PLC2](plc-siemens-s7-1200/)       | SIMATIC S7-1200, CPU 1212C       | ARMbe                        | ✔   | ✘       | ✘    | 
 | PLC3                               | MicroLogix 1100                  | MCF5282                      | ✘   | ✔       | ✘    | 
 | PRINT1                             | Dell 1130n                       | ARMbe                        | ✔   | ✘       | ✘    | 
